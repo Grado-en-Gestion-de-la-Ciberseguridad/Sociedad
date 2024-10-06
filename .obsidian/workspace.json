@@ -1,0 +1,275 @@
+{
+  "main": {
+    "id": "c2d34910abd3a939",
+    "type": "split",
+    "children": [
+      {
+        "id": "36ba0c15caebe782",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0194488f36d93593",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "b8405f9e68c4d54d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1459c58570b6d3ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc1467aadad1b29f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1fcf587bdcb89e8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0c0b410b07387715",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {}
+            }
+          },
+          {
+            "id": "7c126c07f44320c5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "BattlEye",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "90118dafb7e1d1fc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "679432b882cc5780",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7bdc5ab539c1057a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "cee87d53d17e9d23",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "index.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 269.5
+  },
+  "right": {
+    "id": "533d5529e2bbf33e",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee59339c9d860158",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f6581391f90ea50",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "002059915cc31c36",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "index.md"
+              }
+            }
+          },
+          {
+            "id": "efbfba43732d4f89",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "ab25ec687bd20d92",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "45f5f6a380e9cabf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "42d9b8366e582a4a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 206.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "homework-manager:Open homework": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "b8405f9e68c4d54d",
+  "lastOpenFiles": [
+    "README.md",
+    "!Resumen Diario/03-10-24.md",
+    "!Resumen Diario/06-10-24.md",
+    "index.md",
+    "Home.md",
+    "!Resumen Diario/02-10-24.md",
+    "puss-to-web.ps1",
+    "01.1. Fundamentos de Derecho/01. Constitucion Espanola/01. TITULO PRELIMINAR.md",
+    "!Resumen Diario/01-10-24.md",
+    "202410012059.md",
+    "99. Obsidian/00. Templates/Daily note.md",
+    "99._Obsidian/04. Others/Ciber 1 curso/HCP/PT HHCP.pptx",
+    "99._Obsidian/04. Others/Ciber 1 curso/HCP/ENSAYO FINAL HCP .pdf",
+    "99._Obsidian/04. Others/Ciber 1 curso/HCP/ENSAYO FINAL HCP .docx",
+    "99._Obsidian/04. Others/Ciber 1 curso/HCP/00. File_index.md",
+    "99._Obsidian/04. Others/Ciber 1 curso/HCP/00. HCP.md",
+    "99._Obsidian/04. Others/Ciber 1 curso/INTRODUCCIÓN A LOS ESTUDIOS UNIVERSITARIOS/Introducción a los estudios universitarios.pdf",
+    "99._Obsidian/04. Others/Ciber 1 curso/INTRODUCCIÓN A LOS ESTUDIOS UNIVERSITARIOS/00. INTRODUCCIÓN A LOS ESTUDIOS UNIVERSITARIOS.md",
+    "99._Obsidian/04. Others/Ciber 1 curso/INTRODUCCIÓN A LOS ESTUDIOS UNIVERSITARIOS/IEU David.pdf",
+    "99._Obsidian/04. Others/Ciber 1 curso/INTRODUCCIÓN A LOS ESTUDIOS UNIVERSITARIOS/00. File_index.md",
+    "99._Obsidian/04. Others/Ciber 1 curso/HCP",
+    "99._Obsidian/04. Others/Ciber 1 curso/INTRODUCCIÓN A LOS ESTUDIOS UNIVERSITARIOS",
+    "99._Obsidian/04. Others/Ciber 1 curso/00. File_index.md",
+    "99._Obsidian/04. Others/Ciber 1 curso/00. Ciber 1 curso.md",
+    "99._Obsidian/04. Others/Ciber 1 curso",
+    "99._Obsidian/04. Others/00. File_index.md",
+    "99._Obsidian/04. Others/00. 04. Others.md",
+    "99._Obsidian/03. Syntax/01. Templater.md",
+    "99._Obsidian/03. Syntax/00. Obsidian.md",
+    "99._Obsidian/01. Inserts/image.webp",
+    "99._Obsidian/03. Syntax/00. File_index.md",
+    "99._Obsidian/01. Inserts/00. File_index.md",
+    "99._Obsidian/01. Inserts/00. 01. Inserts.md",
+    "99._Obsidian/03. Syntax/00. 03. Syntax.md",
+    "99._Obsidian/00. Templates/Hcode + Q.md",
+    "99._Obsidian/00. Templates/Fast Note.md",
+    "99._Obsidian/04. Others",
+    "99. Obsidian/01. Inserts/image.webp",
+    "Ciber I 2223/I CUATRI/FUNDAMENTOS TIC/EXAMEN/KAHOOTS Clase/KAHOOTS/Otros kahoots ex/Screenshot_2022-11-27-23-39-58-94_99c04817c0de5652397fc8b56c3b3817.jpg",
+    "Ciber I 2223/I CUATRI/FUNDAMENTOS TIC/EXAMEN/KAHOOTS Clase/KAHOOTS/Otros kahoots ex/IMG20221118093449.jpg",
+    "Ciber I 2223/I CUATRI/FUNDAMENTOS TIC/EXAMEN/KAHOOTS Clase/KAHOOTS/Otros kahoots ex/IMG20221118093249.jpg",
+    "Ciber I 2223/I CUATRI/FUNDAMENTOS TIC/EXAMEN/KAHOOTS Clase/KAHOOTS/Otros kahoots ex/Screenshot_2022-11-27-23-41-01-90_99c04817c0de5652397fc8b56c3b3817.jpg",
+    "Ciber I 2223/I CUATRI/FUNDAMENTOS TIC/EXAMEN/KAHOOTS Clase/KAHOOTS/Otros kahoots ex/Screenshot_2022-11-27-23-42-22-88_99c04817c0de5652397fc8b56c3b3817.jpg",
+    "Ciber I 2223/I CUATRI/FUNDAMENTOS TIC/EXAMEN/KAHOOTS Clase/KAHOOTS/Otros kahoots ex/Screenshot_2022-11-27-23-40-09-43_99c04817c0de5652397fc8b56c3b3817.jpg",
+    "Ciber I 2223/I CUATRI/FUNDAMENTOS TIC/EXAMEN/KAHOOTS Clase/KAHOOTS/Otros kahoots ex/Screenshot_2022-11-27-23-40-47-10_99c04817c0de5652397fc8b56c3b3817.jpg",
+    "Ciber I 2223/I CUATRI/FUNDAMENTOS TIC/EXAMEN/KAHOOTS Clase/KAHOOTS/Otros kahoots ex/Screenshot_2022-11-27-23-41-06-03_99c04817c0de5652397fc8b56c3b3817.jpg",
+    "01. Intro/02. Hack-The-Box/Untitled.canvas",
+    "Untitled.canvas",
+    "01. Personal/01. Configs/03. Proxmox/Untitled.canvas",
+    "Untitled 1.canvas"
+  ]
+}
